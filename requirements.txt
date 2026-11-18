@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch
+torchvision
+numpy
+opencv-contrib-python
+scikit-image
+pandas
+matplotlib
+tqdm
+gradio
+pyiqa
